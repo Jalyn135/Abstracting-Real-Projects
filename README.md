@@ -68,5 +68,5 @@ This project was developed using object-oriented programming principles. The goa
 ---
 
 ## 🧠 Author Info
-**Author**: [Your Name]  
+**Author**: Jalyn Alexander  
 This project helped me strengthen my understanding of object-oriented programming, especially the use of secondary classes and encapsulation.
