@@ -70,3 +70,6 @@ This project was developed using object-oriented programming principles. The goa
 ## 🧠 Author Info
 **Author**: Jalyn Alexander  
 This project helped me strengthen my understanding of object-oriented programming, especially the use of secondary classes and encapsulation.
+
+
+UML DIAGRAM GOOGLE DRIVE LINK (PNG): https://drive.google.com/file/d/1-bkNmsWgOx4R-fldf5dQrlBF_oOR1Sk8/view?usp=sharing
